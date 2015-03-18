@@ -6,5 +6,5 @@ This project an addon method that uses Wowza Streaming Engine to deliver all med
 so.. is a professional publisher/watcher secure protect the same like "twitch , livestream , ustream , etc.."
 all of the software can be easy integration works realtime sync your database..
 
-Download URL:
+<b>Download URL:<b><br>
 sourceforge.net/projects/wowza-streamkey/files/latest/download
